@@ -9,54 +9,54 @@ const projectsData = [
     category: 'Web Application',
     name: 'Al Raya Lighting',
     link: 'https://alrayalighting.com',
-    imgLeftTop: '/images/Screenshot (470).png',
-    imgLeftBot: '/images/Screenshot (471).png',
-    imgRight: '/images/Screenshot (475).png'
+    imgLeftTop: '/images/Screenshot (470).webp',
+    imgLeftBot: '/images/Screenshot (471).webp',
+    imgRight: '/images/Screenshot (475).webp'
   },
   {
     num: '02',
     category: 'AI Tool',
     name: 'ArtiFix',
     link: 'https://artifix.tech',
-    imgLeftTop: '/images/Screenshot (673).png',
-    imgLeftBot: '/images/Screenshot (674).png',
-    imgRight: '/images/Screenshot (681).png'
+    imgLeftTop: '/images/Screenshot (673).webp',
+    imgLeftBot: '/images/Screenshot (674).webp',
+    imgRight: '/images/Screenshot (681).webp'
   },
   {
     num: '03',
     category: 'Landing Page',
     name: 'Nature Fund',
     link: 'https://friendly-starship-bbf7a4.netlify.app/',
-    imgLeftTop: '/images/Screenshot (715).png',
-    imgLeftBot: '/images/Screenshot (716).png',
-    imgRight: '/images/Screenshot (714).png'
+    imgLeftTop: '/images/Screenshot (715).webp',
+    imgLeftBot: '/images/Screenshot (716).webp',
+    imgRight: '/images/Screenshot (714).webp'
   },
   {
     num: '04',
     category: 'E-Commerce',
     name: 'El-Manasterly Tires',
     link: 'https://el-manasterlytires.netlify.app/',
-    imgLeftTop: '/images/Screenshot (478).png',
-    imgLeftBot: '/images/Screenshot (479).png',
-    imgRight: '/images/Screenshot (476).png'
+    imgLeftTop: '/images/Screenshot (478).webp',
+    imgLeftBot: '/images/Screenshot (479).webp',
+    imgRight: '/images/Screenshot (476).webp'
   },
   {
     num: '05',
     category: 'Digital Agency',
     name: 'Pixel Turtles',
     link: 'https://enchanting-kheer-7dc93c.netlify.app/',
-    imgLeftTop: '/images/Screenshot (483).png',
-    imgLeftBot: '/images/Screenshot (484).png',
-    imgRight: '/images/Screenshot (482).png'
+    imgLeftTop: '/images/Screenshot (483).webp',
+    imgLeftBot: '/images/Screenshot (484).webp',
+    imgRight: '/images/Screenshot (482).webp'
   },
   {
     num: '06',
     category: 'Travel & Tourism',
     name: 'Luxury Travel',
     link: 'https://jovial-marshmallow-10a189.netlify.app',
-    imgLeftTop: '/images/Screenshot (684).png',
-    imgLeftBot: '/images/Screenshot (685).png',
-    imgRight: '/images/Screenshot (682).png'
+    imgLeftTop: '/images/Screenshot (684).webp',
+    imgLeftBot: '/images/Screenshot (685).webp',
+    imgRight: '/images/Screenshot (682).webp'
   }
 ];
 
