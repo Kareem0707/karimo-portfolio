@@ -17,7 +17,7 @@ const projectsData = [
     num: '02',
     category: 'AI Tool',
     name: 'ArtiFix',
-    link: 'https://artifix.tech',
+    link: 'https://www.artifix.tech/',
     imgLeftTop: '/images/Screenshot (673).webp',
     imgLeftBot: '/images/Screenshot (674).webp',
     imgRight: '/images/Screenshot (681).webp'
@@ -26,7 +26,7 @@ const projectsData = [
     num: '03',
     category: 'Landing Page',
     name: 'Nature Fund',
-    link: 'https://friendly-starship-bbf7a4.netlify.app/',
+    link: 'https://web-designer-for-fundraising-websit.vercel.app/',
     imgLeftTop: '/images/Screenshot (715).webp',
     imgLeftBot: '/images/Screenshot (716).webp',
     imgRight: '/images/Screenshot (714).webp'
@@ -35,7 +35,7 @@ const projectsData = [
     num: '04',
     category: 'E-Commerce',
     name: 'El-Manasterly Tires',
-    link: 'https://el-manasterlytires.netlify.app/',
+    link: 'https://el-mansterly-tires.vercel.app/',
     imgLeftTop: '/images/Screenshot (478).webp',
     imgLeftBot: '/images/Screenshot (479).webp',
     imgRight: '/images/Screenshot (476).webp'
@@ -44,7 +44,7 @@ const projectsData = [
     num: '05',
     category: 'Digital Agency',
     name: 'Pixel Turtles',
-    link: 'https://enchanting-kheer-7dc93c.netlify.app/',
+    link: 'https://pixel-turtels.vercel.app/',
     imgLeftTop: '/images/Screenshot (483).webp',
     imgLeftBot: '/images/Screenshot (484).webp',
     imgRight: '/images/Screenshot (482).webp'
@@ -53,7 +53,7 @@ const projectsData = [
     num: '06',
     category: 'Travel & Tourism',
     name: 'Luxury Travel',
-    link: 'https://jovial-marshmallow-10a189.netlify.app',
+    link: 'https://luxury-travel-website-rebuild-visit.vercel.app/',
     imgLeftTop: '/images/Screenshot (684).webp',
     imgLeftBot: '/images/Screenshot (685).webp',
     imgRight: '/images/Screenshot (682).webp'
