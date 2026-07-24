@@ -8,15 +8,20 @@ const HeroSection = () => {
     <section className="h-screen flex flex-col overflow-x-clip relative w-full">
       {/* Navbar */}
       <FadeIn delay={0} y={-20} as="nav" className="flex justify-between items-center px-6 md:px-10 pt-6 md:pt-8 w-full z-20">
-        {['About', 'Services', 'Projects', 'Contact'].map((link) => (
-          <a
-            key={link}
-            href={`#${link.toLowerCase()}`}
-            className="text-[#D7E2EA] px-4 pt-4 pb-8 -mx-4 -mt-4 -mb-8 font-medium uppercase tracking-wider text-sm md:text-lg lg:text-[1.4rem] hover:text-[#f5b412] transition-colors duration-200"
-          >
-            {link}
-          </a>
-        ))}
+        <a href="#" className="flex-shrink-0 hover:scale-105 transition-transform duration-300">
+          <img src="/kd-logo.png" alt="KD Logo" className="w-12 h-12 md:w-16 md:h-16 object-contain" />
+        </a>
+        <div className="flex gap-4 sm:gap-8 md:gap-12 items-center">
+          {['About', 'Services', 'Projects', 'Contact'].map((link) => (
+            <a
+              key={link}
+              href={`#${link.toLowerCase()}`}
+              className="text-[#D7E2EA] px-2 sm:px-4 py-2 font-medium uppercase tracking-wider text-xs sm:text-sm md:text-lg lg:text-[1.4rem] hover:text-[#f5b412] transition-colors duration-200"
+            >
+              {link}
+            </a>
+          ))}
+        </div>
       </FadeIn>
 
       {/* Hero Content */}
