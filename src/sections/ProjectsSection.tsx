@@ -79,7 +79,7 @@ const projectsData = [
   {
     num: '09',
     category: 'Restaurant App',
-    name: 'فطاركم علينا',
+    name: 'FETARKM 3LENA',
     link: 'https://fetar-w-feter-website.vercel.app/',
     imgLeftTop: '/images/fetar-2.webp',
     imgLeftBot: '/images/fetar-3.webp',
