@@ -66,6 +66,15 @@ const projectsData = [
     imgLeftTop: '/images/ctrl-1.webp',
     imgLeftBot: '/images/ctrl-2.webp',
     imgRight: '/images/ctrl-3.webp'
+  },
+  {
+    num: '08',
+    category: 'E-Commerce',
+    name: 'Accessory Beads',
+    link: 'https://accessory-beads.vercel.app/',
+    imgLeftTop: '/images/beads-1.webp',
+    imgLeftBot: '/images/beads-2.webp',
+    imgRight: '/images/beads-3.webp'
   }
 ];
 
