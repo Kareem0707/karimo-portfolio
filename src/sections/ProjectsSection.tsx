@@ -57,6 +57,15 @@ const projectsData = [
     imgLeftTop: '/images/Screenshot (684).webp',
     imgLeftBot: '/images/Screenshot (685).webp',
     imgRight: '/images/Screenshot (682).webp'
+  },
+  {
+    num: '07',
+    category: 'E-Commerce',
+    name: 'CTRL Y Z',
+    link: 'https://ctrl-yz-xi.vercel.app/',
+    imgLeftTop: '/images/ctrl-1.webp',
+    imgLeftBot: '/images/ctrl-2.webp',
+    imgRight: '/images/ctrl-3.webp'
   }
 ];
 
