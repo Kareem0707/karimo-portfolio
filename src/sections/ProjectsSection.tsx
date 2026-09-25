@@ -65,25 +65,25 @@ const projectsData = [
     link: 'https://ctrl-yz-xi.vercel.app/',
     imgLeftTop: '/images/ctrl-1.webp',
     imgLeftBot: '/images/ctrl-2.webp',
-    imgRight: '/images/ctrl-3.webp'
+    imgRight: '/images/ctrl-0.webp'
   },
   {
     num: '08',
     category: 'E-Commerce',
     name: 'Accessory Beads',
     link: 'https://accessory-beads.vercel.app/',
-    imgLeftTop: '/images/beads-1.webp',
-    imgLeftBot: '/images/beads-2.webp',
-    imgRight: '/images/beads-3.webp'
+    imgLeftTop: '/images/beads-2.webp',
+    imgLeftBot: '/images/beads-3.webp',
+    imgRight: '/images/beads-1.webp'
   },
   {
     num: '09',
     category: 'Restaurant App',
     name: 'فطاركم علينا',
     link: 'https://fetar-w-feter-website.vercel.app/',
-    imgLeftTop: '/images/fetar-1.webp',
-    imgLeftBot: '/images/fetar-2.webp',
-    imgRight: '/images/fetar-3.webp'
+    imgLeftTop: '/images/fetar-2.webp',
+    imgLeftBot: '/images/fetar-3.webp',
+    imgRight: '/images/fetar-1.webp'
   }
 ];
 
