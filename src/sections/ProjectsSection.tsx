@@ -75,6 +75,15 @@ const projectsData = [
     imgLeftTop: '/images/beads-1.webp',
     imgLeftBot: '/images/beads-2.webp',
     imgRight: '/images/beads-3.webp'
+  },
+  {
+    num: '09',
+    category: 'Restaurant App',
+    name: 'فطاركم علينا',
+    link: 'https://fetar-w-feter-website.vercel.app/',
+    imgLeftTop: '/images/fetar-1.webp',
+    imgLeftBot: '/images/fetar-2.webp',
+    imgRight: '/images/fetar-3.webp'
   }
 ];
 
