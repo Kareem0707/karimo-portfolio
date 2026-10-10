@@ -84,6 +84,15 @@ const projectsData = [
     imgLeftTop: '/images/fetar-2.webp',
     imgLeftBot: '/images/fetar-3.webp',
     imgRight: '/images/fetar-1.webp'
+  },
+  {
+    num: '10',
+    category: 'Restaurant App',
+    name: 'Red Pizza',
+    link: 'https://red-pizza.vercel.app/',
+    imgLeftTop: '/images/redpizza-2.webp',
+    imgLeftBot: '/images/redpizza-3.webp',
+    imgRight: '/images/redpizza-1.webp'
   }
 ];
 
